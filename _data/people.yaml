@@ -16,17 +16,26 @@
   other_info:
      Email Address: "lmdavis@caltech.edu"
 - author:
-  name: Pratyush Kandimalla
-  title: Graduate Student
-  img: prat_image.png
+  name: Sulan Wu
+  title: Undergraduate Student
+  img: TODO.png
   institute: California Institute of Technology
   other_info:
-    Email Address: "pkandima@caltech.edu"
+    Email Address: ""
 
 - author:
-  name: Iris Lee
+  name: Juliette Koval
   title: Undergraduate Student
-  img: iris_image.png
+  img: TODO.png
   institute: California Institute of Technology
   other_info:
-      Email Address: "irislee@caltech.edu"
+      Email Address: ""
+
+- author:
+  name: Katie Chiu
+  title: Undergraduate Student
+  img: TODO.png
+  institute: California Institute of Technology
+  other_info:
+      Email Address: ""
+
