@@ -1,7 +1,7 @@
 - dataset:
   storage: local 
-  link: "/CS-156-BC-site/datasets/v81_state_policy - v81_state_policy.csv"
-  name: "State Data"
+  link: "v81_state_policy - v81_state_policy.csv"
+  name: "State Policy Data"
   filetype: .csv
   filesize: 73 kb
   
