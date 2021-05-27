@@ -1,45 +1,45 @@
 - fig:
-  title: "Fig. 1: TODO"
+  title: "Fig. 1: Alabama Daycare Closure"
   filename: decision_tree.ipynb
   desc:  Contains the code that generated this plot
   pic: figure_1.png
   req:
     - ds: 
-      title: Microtubule Catastrophe Data
-      link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv"
+      title: State Policy Data
+      link: "/CS-156-BC-site/v81_state_policy - v81_state_policy.csv"
 - fig:
-  title: "Fig. 2: TODO"
+  title: "Fig. 2: Deleware Daycare Closure"
   filename: decision_tree.ipynb
   desc:  Contains the code that generated this plot
   pic: figure_2.png
   req:
     - ds: 
-      title: Tidied Microtubule Catastrophe Data
-      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
+      title: State Policy Data
+      link: "/CS-156-BC-site/v81_state_policy - v81_state_policy.csv"
 - fig:
-  title: "Fig. 3: TODO"
+  title: "Fig. 3: Ohio Movie Closure"
   filename: decision_tree.ipynb
   desc:  Contains the code that generated this plot
   pic: figure_3.png
   req:
     - ds: 
-      title: Tidied Microtubule Catastrophe Data
-      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
+      title: State Policy Data
+      link: "/CS-156-BC-site/v81_state_policy - v81_state_policy.csv"
 - fig:
-  title: "Fig. 4: TODO"
+  title: "Fig. 4: Tennessee Movie Closure"
   filename: decision_tree.ipynb
   desc:  Contains the code that generated this plot
   pic: figure_4.png
   req:
     - ds: 
-      title: Tidied Microtubule Catastrophe Data
-      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
+      title: State Policy Data
+      link: "/CS-156-BC-site/v81_state_policy - v81_state_policy.csv"
 - fig:
-  title: "Fig. 5: TODO"
-  filename: decision_tree.ipynb
-  desc:  Contains the code that generated this plot
+  title: "Fig. 5: Movie Closure Heat Map"
+  filename: ""
+  desc: ""
   pic: figure_5.png
   req:
     - ds: 
-      title: Tidied Microtubule Catastrophe Data
-      link: "/bi103g31/datasets/tidy_mt_catastrophe.xlsx"
+      title: ""
+      link: ""

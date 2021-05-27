@@ -3,7 +3,7 @@ layout: page
 title: About
 description: Information about the project, website, and links to the paper and SI
 img: long_microtubule.jpg
-caption: "00_about is this one"
+caption: "Machine Leanrning"
 permalink: index.html
 sidebar: true
 ---
