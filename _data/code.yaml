@@ -1,33 +1,5 @@
 - script:
-  name: fig1_ecdf.py
+  name: decision_tree.ipynb
   desc: >
-    Script which calculates and plots the ECDF of a data set.
-- script:
-  name: fig2_gammaplot.py
-  desc: >
-    Script to plot ECDF of the time to catastrophe at 12uM Tubulin 
-    concentration and compare it to the Gamma Model with parameters 
-    determined by MLE
-- script:
-  name: fig3_storyplot.py
-  desc: >
-    Script to plot ECDF of the time to catastrophe at 12uM Tubulin 
-    concentration and compare it to the Story Model with parameters 
-    determined by MLE
-- script:
-  name: fig4_comparison.py
-  desc: >
-    Script to plot ECDF of the time to catastrophe at 12uM Tubulin 
-    concentration and compare it to the Gamma and Story Model with 
-    parameters determined by MLE
-- script:
-  name: fig5_aic.py
-  desc: >
-    Script to plot the ECDF for the AIC values of Gamma and Story 
-    Distribution calculated from bootstrapped samples.
-- script:
-  name: fig6_7_paramcompare.py
-  desc: >
-    Script to plot the ECDFs of the Alpha and Beta parameter values 
-    as well as a scatter plot for the Alpha vs Beta values for 
-    bootstrapped samples from the recordings at each Tubulin concentration.
+    Script which contains functions used for all descision-tree
+    models and graphics.

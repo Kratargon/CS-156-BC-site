@@ -19,14 +19,14 @@ Abstract: >
   analysis of the impact of policy decisions around the country on the spread of the disease in 
   each state.
   
-  <Descriptions of how our models work>
+  Descriptions of how our models work
 
-  <Description of how the aggregation works>
+  Description of how the aggregation works
 
-  <Description of our conclusions and how we came to them>
+  Description of our conclusions and how we came to them
 Package:  >
   https://github.com/KandimallaPrat/micro_catastrophe
 Acknowledgments: > 
   Thanks to the Caltech CS 156 TAs, and Prof. Yaser S. Abu-Mostafa for helping with analysis
-  and conceptual advice. We would also like to thank <resources we got datasets from> for providing
-   the dataset.
+  and conceptual advice. We would also like to thank (resources we got datasets from) for providing
+   the datasets.

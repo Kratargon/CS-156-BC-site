@@ -1,7 +1,7 @@
 - fig:
   title: "Fig. 1: Microtubule Time to Catastrophe as a Function of Tubulin Concentration (ECDF)"
-  filename: fig1_ecdf.py
-  desc:  Used to generate the ecdf plot for raw data
+  filename: decision_tree.ipynb
+  desc:  Contains the code that generated this plot
   pic: figure_1.png
   req:
     - ds: 
