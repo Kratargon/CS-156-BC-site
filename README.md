@@ -1,4 +1,4 @@
-# Bi 103a 2020 Microtubule Catastrophe Research
+# CS 156b 2021 COVID Retrospective Analysis
 This repository is an explanation and showcase of the work group Both Coasts did in the Caltech
 class CS 156b in the spring of 2021.
 
