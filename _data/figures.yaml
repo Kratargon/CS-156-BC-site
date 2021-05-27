@@ -6,7 +6,7 @@
   req:
     - ds: 
       title: State Policy Data
-      link: "/CS-156-BC-site/v81_state_policy - v81_state_policy.csv"
+      link: "/CS-156-BC-site/datasets/v81_state_policy - v81_state_policy.csv"
 - fig:
   title: "Fig. 2: Deleware Daycare Closure"
   filename: decision_tree.ipynb
@@ -15,7 +15,7 @@
   req:
     - ds: 
       title: State Policy Data
-      link: "/CS-156-BC-site/v81_state_policy - v81_state_policy.csv"
+      link: "/CS-156-BC-site/datasets/v81_state_policy - v81_state_policy.csv"
 - fig:
   title: "Fig. 3: Ohio Movie Closure"
   filename: decision_tree.ipynb
@@ -24,7 +24,7 @@
   req:
     - ds: 
       title: State Policy Data
-      link: "/CS-156-BC-site/v81_state_policy - v81_state_policy.csv"
+      link: "/CS-156-BC-site/datasets/v81_state_policy - v81_state_policy.csv"
 - fig:
   title: "Fig. 4: Tennessee Movie Closure"
   filename: decision_tree.ipynb
@@ -33,7 +33,7 @@
   req:
     - ds: 
       title: State Policy Data
-      link: "/CS-156-BC-site/v81_state_policy - v81_state_policy.csv"
+      link: "/CS-156-BC-site/datasets/v81_state_policy - v81_state_policy.csv"
 - fig:
   title: "Fig. 5: Movie Closure Heat Map"
   filename: ""

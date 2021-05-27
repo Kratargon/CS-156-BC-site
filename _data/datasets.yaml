@@ -1,13 +1,7 @@
 - dataset:
-  storage: remote 
-  link: "https://s3.amazonaws.com/bebi103.caltech.edu/data/gardner_mt_catastrophe_only_tubulin.csv"
-  name: "Microtubule Catastrophe Data"
+  storage: local 
+  link: "/CS-156-BC-site/datasets/v81_state_policy - v81_state_policy.csv"
+  name: "State Data"
   filetype: .csv
-  filesize: 11 kb
-- dataset:
-  storage: local
-  link: "tidy_mt_catastrophe.xlsx"
-  name: "Tidied Microtubule Catastrophe Data"
-  filetype: .xslx
-  filesize: 25 kb
+  filesize: 73 kb
   
